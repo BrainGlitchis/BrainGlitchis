@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrainGlitchis
+- 👋 Hi, I’m me
 - 👀 I’m interested in all types of things. 
 - 🌱 I’m currently learning python, GitHub, 
 - 📫 How to reach me 
